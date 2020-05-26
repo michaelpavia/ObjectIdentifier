@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>33.jpg</filename>
+	<path>C:\Users\Michael Pavia\Downloads\Images\33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1060</width>
+		<height>971</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monitor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>1060</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

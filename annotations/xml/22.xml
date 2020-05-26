@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mouse</folder>
+	<filename>22.jpg</filename>
+	<path>C:\Users\Michael Pavia\Downloads\Images\Mouse\22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>954</ymin>
+			<xmax>1693</xmax>
+			<ymax>1646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1551</xmin>
+			<ymin>1404</ymin>
+			<xmax>1906</xmax>
+			<ymax>1746</ymax>
+		</bndbox>
+	</object>
+</annotation>
