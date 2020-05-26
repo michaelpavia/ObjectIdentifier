@@ -3,10 +3,10 @@ Isolate PC peripherals in desk images and use them train a convolutional neural 
 This will eventually be used to detect these peripherals in other images.
 
 ## Dependencies
-TensorFlow
-SKLearn
-MatPlotLib
-Pillow
-Pandas
-OS
-XML ElementTrees
+- TensorFlow
+- SKLearn
+- MatPlotLib
+- Pillow
+- Pandas
+- OS
+- XML ElementTrees
